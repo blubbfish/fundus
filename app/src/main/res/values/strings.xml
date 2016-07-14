@@ -1,8 +1,11 @@
 <resources>
-    <string name="app_name">Fundus-App</string>
+    <string name="app_name" translatable="false">Fundus</string>
+    <string name="app_name_ext" translatable="false">Fundus-App</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="app_title_string">Fundus loan tool</string>
+    <string name="app_title_link" translatable="false">github.com/blubbfish/fundus</string>
 </resources>
